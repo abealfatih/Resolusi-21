@@ -2,3 +2,4 @@ Istiqomah belajar Web based aplikasi
 belajar HTML, CSS, JAVASCRIPT, PHP, JAVA, dan Framework Codeigniter
 Belajar DBMS (MySQL, SQL Server, MongoDB)
 Belajar tiada henti
+semoga menjadi programmer
